@@ -1,0 +1,322 @@
+
+BODY{
+    overflow-x: hidden;
+    background-color: rgb(230, 230, 230)
+}
+.header{
+background-color: rgb(39, 86, 163);
+height:80px;
+width:fit-content;
+
+}
+#go{
+    position:absolute;
+    padding:0px;
+    font-size: 42px;
+    color: white;
+        left:150px;
+        top:0px;
+
+    
+}
+.email{
+     position:absolute;
+    padding:0px;
+
+    color: white;
+        left:800px;
+        top:25px;
+}
+#pass{
+     position:absolute;
+    padding:0px;
+
+    color: white;
+        left:970px;
+        top:25px;
+}
+#Log{
+     position:absolute;
+    padding:2px;
+
+    color: white;
+        left:1150px;
+        top:40px;
+}
+#link1{
+color: cornflowerblue;
+text-decoration: none;
+}
+#link1:hover{
+    text-decoration:underline;
+}
+#main{
+  
+    float:right;
+}
+#book1{
+       position:absolute;
+    padding:0px;
+    font-size: 40px;
+    color: black;
+        right:220px;
+        top:70px;
+}
+#book2{
+       position:relative;
+    padding:0px;
+    font-size: 20px;
+    color: black;
+        right:160px;
+        top:50px;
+}
+
+.collect{
+      position:relative;
+    padding:8px;
+    font-size: 18px;
+    color: darkgray;
+        right:130px;
+        top:40px;
+        margin:9px;
+        border-style:ridge;
+         border-radius: 5px;
+         border-color: skyblue;
+         border-width: 1px;
+        
+}
+
+#book5,#book6{
+    width: 370px;
+
+}
+#book7{
+    position:relative;
+    padding:0px;
+    font-size: 20px;
+    color: black;
+        right:120px;
+        top:35px;
+}
+.Date{
+  position:relative;
+    padding:0px;
+    font-size: 20px;
+    color: black;
+        right:120px;
+        top:20px;   
+}
+#link2{
+font-family: Arial;
+   font-size: 10px;
+   margin: 5px;
+   width: 130px; 
+   right:-200px;
+   position:relative;
+        top:-27px; 
+
+}
+#link3{
+    text-decoration: none;
+    color:rgb(39, 86, 163)
+}
+
+#day,#month , #year{
+    text-align: center;
+    height:26px;
+    width: 62px;
+    padding: 0px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#link2:hover{
+    text-decoration: underline;
+     color:rgb(39, 86, 163)
+}
+#book3,#book4{
+    width: 165px;
+    left:34;
+}
+
+.collect1{
+    position: relative;
+    right:42px;
+}
+#dateall{
+    position: absolute;
+    top:160px;
+}
+#sex{
+    position: absolute;
+    top:40px;
+}
+#last{
+    font-size: 12px;
+    margin:39px;
+    position: relative;
+    left: -40px;
+    top:-17px;
+
+}
+
+#create1:hover{
+     background-color: rgb(76, 171, 64);
+}
+#create1{
+    background-color: rgb(76, 150, 64);
+    color:white;
+    size:78px;
+    border-radius: 6px;
+    padding:12px;
+    font-size: 17px;
+   height: 43px;
+    width:200px;
+    font-family: arial;
+position: relative;
+top:-39px;
+border-style: outset
+}
+#link4{
+    text-decoration: none;
+
+}
+#link4:hover{
+    text-decoration: underline;
+}
+#lastp{
+    position: absolute;
+    top:220px;
+    font-size: 16px;
+}
+#all{
+background-color: 	rgb(13, 13, 13);
+color: 	rgb(13, 13, 13);
+}
+#lastdiv{
+   background-color: white;
+height:150px;
+width:1345px;
+top:550px;
+position: absolute;
+    left:-890px;
+}
+
+#image1{
+    position: relative;
+    float:left;
+    left:-750px;
+    width:2px;
+    top:-300px;
+}
+
+#image2{
+    width:700px;
+    
+}
+
+.lastlinks{
+    margin: 8px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+ 
+}
+#lastlinks1{
+    position:relative;
+    left:200px;
+
+}
+.lastlinks0{
+    margin: 15px;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    text-align: center;
+ 
+
+}
+
+.oo,#link4,.lastlinks0,.lastlinks{
+    text-decoration: none;
+    color:rgb(39, 86, 163)
+}
+
+.oo:hover{
+    text-decoration: underline
+}
+.lastdiv1{
+    position:relative;
+    left:190px;
+
+}
+
+#last{
+    color:gray;
+}
+.lastlinks:hover,.lastlinks0:hover{
+    text-decoration: underline;
+}
+#line1{
+    position: absolute;
+    size:4px;
+    width:975px;
+    color: lightgrey;
+    background-color: lightgrey;
+    left:200px;
+    top:34px;
+
+}
+.lastlinks0{
+    font-size: 12px;
+    padding: 1px;
+    margin: 5px;
+}
+#line2{
+
+    position: relative;
+    top:-30px;
+    left:5px;
+     width:400px;
+}
+
+#div1,#div2,#div3,#div4,#div5,#div6,#div7,#div8,#div9,#div10,#div11{
+    position:absolute;
+    padding: 9px;
+    margin: 4px;
+   
+}
+#div1{
+     left:187px;
+}
+
+#div2{
+    left:266px
+}
+#div3{
+    left:350px
+}
+#div4{
+    left:426px
+}
+#div5{
+    left:526px
+}
+#div6{
+    left:612px
+}
+#div7{
+    left:695px
+}
+#div8{
+    left:770px
+}
+#div9{
+    left:840px
+}
+#div10{
+    left:895px
+}
+#div11{
+    left:970px
+}
